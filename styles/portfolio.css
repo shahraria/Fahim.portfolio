@@ -10,7 +10,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 60px 200px;
+    padding: 60px 200px;
 }
 
 nav li {
